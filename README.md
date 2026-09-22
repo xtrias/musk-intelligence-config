@@ -15,7 +15,6 @@ Weekly review jobs propose list changes. Apply them by editing `config.md` (or a
 |---|---|---|
 | [`reports/chronicle/`](reports/chronicle/) | Daily Musk Companies Chronicle | 21:00 Europe/Amsterdam |
 | [`reports/industry/`](reports/industry/) | Daily Industry Landscape (non-Elon) | 08:00 Europe/Amsterdam |
-| [`reports/tesla/`](reports/tesla/) | Daily Tesla Digest (media + bull/bear X + official posts) | 20:00 Europe/Madrid |
 | [`reports/reviews/musk-lists/`](reports/reviews/musk-lists/) | Weekly Musk List Review | Sunday 18:00 |
 | [`reports/reviews/industry-lists/`](reports/reviews/industry-lists/) | Weekly Industry List Review | Sunday 18:30 |
 
